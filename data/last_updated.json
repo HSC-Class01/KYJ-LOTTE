@@ -1,7 +1,0 @@
-{
-  "updated_at": "2026-10-08T11:47:37.390333+00:00",
-  "company": "SK하이닉스",
-  "api_structured_financial_start_year": 2015,
-  "requested_start_year": 2010,
-  "note": "OpenDART structured financial API coverage is documented from 2015; 2010-2014 requires a separate historical backfill source."
-}
