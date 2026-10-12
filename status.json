@@ -1,9 +1,0 @@
-{
-  "company_query": "당근",
-  "start_year": 2010,
-  "updated_at": "아직 실행 전",
-  "status": "not_run",
-  "notes": [
-    "GitHub Actions에서 최초 실행 후 실제 DART 조회 결과로 교체됩니다."
-  ]
-}
